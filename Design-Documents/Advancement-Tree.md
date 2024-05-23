@@ -25,7 +25,6 @@ flowchart TD
   Novice-Builder(Novice Builder)
   Novice-Builder-->Basic-Wood-Working
   Basic-Wood-Working(Basic Wood Working)
-  Basic-Wood-Working-->
 
 
 
@@ -36,7 +35,7 @@ flowchart TD
   Shrubbery-Clearing-->Seed-Gathering
   
   Seed-Gathering(Seed Gathering\n Collect 10 Seeds)
-  Seed-Gathering-->Novice-Foraging
+  Seed-Gathering-->Novice-Foraging & Dirt-Mining
   
   Novice-Foraging(Novice Foraging\n)
   Novice-Foraging-->Berry-Foraging  
