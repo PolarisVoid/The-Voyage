@@ -1,5 +1,5 @@
 | Advancement Name | Description | How to Unlock |
-|---|---|---|
+|:--|:-:|:-:|
 | Novice Hunter |  | Kill 10 Cows, Pigs, Chickens, and Sheep |
 | Ice Mining |   |   |
 | Snow Mining |   |   |
@@ -16,7 +16,7 @@
 | Novice Builder |   |   |
 | Novice Scavenger |   |   |
 | Berry Foraging |   |   |
-| Mountaineer |   |   |
+| Mountaineer | Climb the highest mountain | Climb to y=100 |
 | Dirt Mining |   |   |
 | Novice Explorer |   |   |
 | Novice Foraging |   |   |
