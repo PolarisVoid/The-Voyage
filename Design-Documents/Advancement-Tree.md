@@ -41,12 +41,12 @@ flowchart TD
   Novice-Foraging-->Berry-Foraging  
   
   Berry-Foraging(Berry Foraging\n)
-  Berry-Foraging-->Crop-Harvesting & Mushroom-Foraging & Sappling-Framing
+  Berry-Foraging-->Crop-Harvesting & Mushroom-Foraging & Sappling-Farming
   
   Crop-Harvesting(Crop Harvesting\n)
   Crop-Harvesting-->Berry-Farming & Sappling-Farming
   
-  Mushroom-Foraging(Mushroom-Foraging\n)
+  Mushroom-Foraging(Mushroom Foraging\n)
 
 
 
