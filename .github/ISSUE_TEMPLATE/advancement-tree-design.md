@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 # Check list
- [] Has a Title
- [] Has a Description
- [] Has requirements to unlock it
- [] Implemented into Advancement Tree
+- [ ] Has a Title
+- [ ] Has a Description
+- [ ] Has requirements to unlock it
+- [ ] Implemented into Advancement Tree
 
 # Task
 In the [Design Documents](./Design-Documents) folder, you should see a few different documents that describe the [advancement](./Design-Documents/Advancements.md) and the [advancement tree](./Design-Documents/Advancement-Tree.md). 
